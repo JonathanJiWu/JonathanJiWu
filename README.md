@@ -1,1 +1,1 @@
-I try to write good code.
+I try to write good codes.
